@@ -21,7 +21,7 @@ The repository includes the following files:
      > A Jupyter notebook which provides an overview of every single step of which the process to implement the code has                     consisted in.
 			
 2. __`collector.py`__:
-      > A python file which contains the code needed to collect our data from the html page provided by the TAs and Wikipedia. 
+      > A Python file which contains the code needed to collect our data from the html page provided by the TAs and Wikipedia. 
 
 3. __`collector_utils.py`__:
       > A Python file which stores the functions we used in collector.py. 
@@ -42,8 +42,7 @@ The repository includes the following files:
       > A Python file gathering functions we needed in more than one of the previous files.
       
 9. __`main.py`__:
-      > A Python file that, once executed, allows the user to interact with the search engine. When the user runs the file it will be             able to choose:
-          the search_engine: a parameter that the user set to choose the search engine to run (1,2 or 3).
+      > A Python file that, once executed, allows the user to interact with the search engine. When the user runs the file, it will be             able to choose the search engine by typing a numerical parameter (1, 2 or 3) that we set to pick among of them.
 
 9. __`exercise_4.py`__:
       > A Python file that contains the implementation of the algorithm that solves problem 4.
