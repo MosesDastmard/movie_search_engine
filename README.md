@@ -18,7 +18,7 @@ __`Usage instructions (should you want to execute our code):`__
  
 The repository includes the following files:
 1. __`main.ipynb`__: 
-     > A Jupyter notebook which provides an overview of every single step of which the process to solve implement the code has                     consisted in.
+     > A Jupyter notebook which provides an overview of every single step of which the process to implement the code has                     consisted in.
 			
 2. __`collector.py`__:
       > A python file which contains the code needed to collect our data from the html page provided by the TAs and Wikipedia. 
