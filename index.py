@@ -2,6 +2,7 @@
 import index_utils
 import pandas as pd
 import pickle
+import numpy as np
 #%%
 movies_df = pd.read_csv('movie_data.csv')
 # initiate the search engine class
