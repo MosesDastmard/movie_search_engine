@@ -1,4 +1,4 @@
-# Homework 3 - What movie to watch tonight?
+# What movie to watch tonight?
 
 <p align="center">
 <img src="https://www.lifewire.com/thmb/5EJ5OHxtAhaf5IEYXENLVj3Dg-M=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/itunes-movie-rental-rules-570a5c903df78c7d9edb7593.jpg">
@@ -48,3 +48,4 @@ The repository includes the following files:
       > A Python file that contains the implementation of the algorithm that solves problem 4.
 
 __`Team members:  Mousaalreza Dastmard - Giorgio Maria Mandolini`__
+
